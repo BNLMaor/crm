@@ -1,0 +1,77 @@
+[19-Jun-2021 04:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkSession() in /home/sarusime/public_html/crm/sources/requests/ajax.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 26
+[19-Jun-2021 04:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkSession() in /home/sarusime/public_html/crm/sources/requests/ajax.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 26
+[19-Jun-2021 04:52:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 106
+[19-Jun-2021 04:53:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkSession() in /home/sarusime/public_html/crm/sources/requests/ajax.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 26
+[19-Jun-2021 04:54:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function checkSession() in /home/sarusime/public_html/crm/sources/requests/ajax.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 26
+[19-Jun-2021 04:55:07 UTC] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:55:07 UTC] PHP Warning:  include(ROOTincludes/config.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:55:07 UTC] PHP Warning:  include(ROOTincludes/config.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:55:07 UTC] PHP Warning:  include(): Failed opening 'ROOTincludes/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:55:07 UTC] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:55:07 UTC] PHP Warning:  include(ROOTincludes/functions.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:55:07 UTC] PHP Warning:  include(ROOTincludes/functions.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:55:07 UTC] PHP Warning:  include(): Failed opening 'ROOTincludes/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:55:07 UTC] PHP Fatal error:  Uncaught Error: Class 'MBNL' not found in /home/sarusime/public_html/crm/sources/requests/ajax.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 23
+[19-Jun-2021 04:55:22 UTC] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:55:22 UTC] PHP Warning:  include(ROOT/includes/config.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:55:22 UTC] PHP Warning:  include(ROOT/includes/config.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:55:22 UTC] PHP Warning:  include(): Failed opening 'ROOT/includes/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:55:22 UTC] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:55:22 UTC] PHP Warning:  include(ROOT/includes/functions.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:55:22 UTC] PHP Warning:  include(ROOT/includes/functions.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:55:22 UTC] PHP Warning:  include(): Failed opening 'ROOT/includes/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:55:22 UTC] PHP Fatal error:  Uncaught Error: Class 'MBNL' not found in /home/sarusime/public_html/crm/sources/requests/ajax.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 23
+[19-Jun-2021 04:56:23 UTC] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:23 UTC] PHP Warning:  include(ROOT/includes/config.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:23 UTC] PHP Warning:  include(ROOT/includes/config.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:23 UTC] PHP Warning:  include(): Failed opening 'ROOT/includes/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:23 UTC] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:23 UTC] PHP Warning:  include(ROOT/includes/functions.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:23 UTC] PHP Warning:  include(ROOT/includes/functions.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:23 UTC] PHP Warning:  include(): Failed opening 'ROOT/includes/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:23 UTC] PHP Fatal error:  Uncaught Error: Class 'MBNL' not found in /home/sarusime/public_html/crm/sources/requests/ajax.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 23
+[19-Jun-2021 04:56:25 UTC] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:25 UTC] PHP Warning:  include(ROOT/includes/config.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:25 UTC] PHP Warning:  include(ROOT/includes/config.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:25 UTC] PHP Warning:  include(): Failed opening 'ROOT/includes/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:25 UTC] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:25 UTC] PHP Warning:  include(ROOT/includes/functions.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:25 UTC] PHP Warning:  include(ROOT/includes/functions.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:25 UTC] PHP Warning:  include(): Failed opening 'ROOT/includes/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:25 UTC] PHP Fatal error:  Uncaught Error: Class 'MBNL' not found in /home/sarusime/public_html/crm/sources/requests/ajax.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 23
+[19-Jun-2021 04:56:26 UTC] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:26 UTC] PHP Warning:  include(ROOT/includes/config.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:26 UTC] PHP Warning:  include(ROOT/includes/config.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:26 UTC] PHP Warning:  include(): Failed opening 'ROOT/includes/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 20
+[19-Jun-2021 04:56:26 UTC] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:26 UTC] PHP Warning:  include(ROOT/includes/functions.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:26 UTC] PHP Warning:  include(ROOT/includes/functions.php): failed to open stream: No such file or directory in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:26 UTC] PHP Warning:  include(): Failed opening 'ROOT/includes/functions.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 21
+[19-Jun-2021 04:56:26 UTC] PHP Fatal error:  Uncaught Error: Class 'MBNL' not found in /home/sarusime/public_html/crm/sources/requests/ajax.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/sarusime/public_html/crm/sources/requests/ajax.php on line 23
